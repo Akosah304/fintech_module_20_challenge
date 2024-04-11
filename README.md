@@ -80,4 +80,4 @@ https://remix.ethereum.org/
 
 
 ### last withdraw amount
-![Withdraw 10 Ether last withdraw amount]([Execution_Results/withdraw_10_ether_last_withdraw_amount.png](https://github.com/Akosah304/fintech_module_20_challenge/blob/main/Starter_Code/Execution_Results/withdarw_10_ether_last_withdraw_amount.png))
+![Withdraw 10 Ether last withdraw amount](https://github.com/Akosah304/fintech_module_20_challenge/blob/main/Starter_Code/Execution_Results/withdarw_10_ether_last_withdraw_amount.png)
