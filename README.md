@@ -186,3 +186,15 @@ Last to Withdraw Amount = 10000000000000000000 (updated to 10 Ether)
 
 ### last withdraw amount
 ![Withdraw 10 Ether last withdraw amount](https://github.com/Akosah304/fintech_module_20_challenge/blob/main/Starter_Code/Execution_Results/withdarw_10_ether_last_withdraw_amount.png)
+
+### Withdrawal Ether Without Sufficient Funds
+
+Attempt to send 2 Ether to an account address (0x583..., valid joint account) with insufficient funds (contract only has 1 Ether Balance)
+
+Balance: 1 Eth (unchanged)
+
+Last to Withdraw Account = 0x988...(different account)
+
+Last to Withdraw Amount = 10000000000000000000 (Unchanged)
+
+![Withdrawal Ether Without Sufficient Funds](https://github.com/Akosah304/fintech_module_20_challenge/blob/main/Starter_Code/Execution_Results/withdarwal%20amount%20error.png)
